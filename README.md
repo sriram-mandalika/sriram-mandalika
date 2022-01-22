@@ -6,7 +6,7 @@ My interest lies in Machine Learning, Deep Learning, Computer Vision/Image Proce
 
 Love Food🍜, Cricket🏏, Cars🏎️ and Space-freak🚀.
 
-📫 Connect with me on LinkedIn
+📫 [Connect with me on LinkedIn](www.linkedin.com/in/sriram-mandalika)
 
 My current path is focused on being a research-oriented undergraduate student.
 
