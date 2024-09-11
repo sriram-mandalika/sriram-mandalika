@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srirammandalika" alt="srirammandalika" /></a> </p>
 
-- 🔭 I’m currently working on Continual Learning and Catastrophic Forgetting [- -](- -)
+- 🔭 I work on developing Foundation models for Continual Learning and Catastrophic Forgetting [- -](- -)
 
 - 👨‍💻 All of my projects are available at [https://github.com/srirammandalika](https://github.com/srirammandalika)
 
