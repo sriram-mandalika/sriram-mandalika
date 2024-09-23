@@ -1,4 +1,4 @@
-<h1 align="center">Heyy there!, I'm Sriram Mandalika</h1>
+<h1 align="center">Heyy there!, I'm Sriram Mandalika </h1>
 <h3 align="center">UG Research-oriented student working on self-aware Computer Vision and Pattern Recognition foundation systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srirammandalika&label=Profile%20views&color=0e75b6&style=flat" alt="srirammandalika" /> </p>
